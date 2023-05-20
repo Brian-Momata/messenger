@@ -65,3 +65,8 @@ group :development do
 end
 
 gem "devise"
+
+
+gem "bulma-rails", "~> 0.9.4"
+
+gem "sassc", "~> 2.4"
